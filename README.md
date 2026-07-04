@@ -68,4 +68,4 @@ See individual module documentation in `/docs` for setup instructions.
 
 ## License
 
-Propriety - SpeedaTech
+Proprietary - SpeedaTech
